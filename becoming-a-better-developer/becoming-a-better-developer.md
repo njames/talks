@@ -11,7 +11,7 @@
  - If you are the same person in 10 years as you are today then you are going backwards
  - Boat analogy - everything is moving on the water. If you stop rowing, stop putting energy into your live, your relationships, you are going backwards. 
  - Newtons laws of motion apply just as much to your life as they do to physical objects
-  -- newtons laws 
+  - newtons laws 
 
 ## Who are you? ( who song - )
 
@@ -20,6 +20,12 @@
  - values
  - goals
  
+## Values
+ - get brene brown list
+ - curiousity
+ - sydney swans coach rule ie "Don't be a D@^%k@!$d"
+
+
 
 ## Relationships 
  - probably the most important thing in your life
