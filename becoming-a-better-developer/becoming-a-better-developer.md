@@ -57,3 +57,12 @@
  - Leadership creates a power imbalance
  - You are paid more and can do more that those you lead - esp at CEO levels
  - So use that power wisely to develop your team rather than lording it over them (see the Sydney Swans rule)
+
+## Commuunity
+ - How can you contribute?
+   - code
+   - documentation
+   - examples
+   - meetups
+   - tests
+   - ...
