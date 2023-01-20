@@ -1,10 +1,11 @@
 # Becoming a Better Developer
 
 ## Very Quick Personal Intro
- - I have been developing professionally for over 25 years
+ - I have been developing software professionally for over 25 years
  - I love it
  - I also love developing other developers
-
+ - If you want to know more google me :)
+ 
 
 ## Why this talk?
  - I believe we all can become better 
@@ -19,15 +20,23 @@
  - morning person / night person
  - values
  - goals
+
+## Creativity
+
+ - A symphony comes from an expression from within
+ - A lot of practise
+ - Code is Creative just as much as a musician 
+ - so many coders are musicians (show of hands)
  
 ## Values
+
  - get brene brown list
  - curiousity
- - Sydney Swans coach rule ie "Don't be a D@^%k@!$d"
-
+ - Sydney Swans coach rule - "Don't be a D@^%k@!$d"
 
 
 ## Relationships 
+
  - probably the most important thing in your life
  - no man is an island - no matter how introverted you are and how muych you need your space. Life is enriched by others. Make space to catch up with friends, make space for fun with your family and your kids.
 
@@ -42,6 +51,7 @@
  - you wouldnt drive you lambo with the rev counter 'red lining' so dont drive your finances that way
 
 ## Power 
+
  - Leadership creates a power imbalance
  - You are paid more and can do more that those you lead - esp at CEO levels
  - So use that power wisely to develop your team rather than lording it over them (see the Sydney Swans rule)
