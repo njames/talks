@@ -23,7 +23,7 @@
 ## Values
  - get brene brown list
  - curiousity
- - sydney swans coach rule ie "Don't be a D@^%k@!$d"
+ - Sydney Swans coach rule ie "Don't be a D@^%k@!$d"
 
 
 
@@ -40,3 +40,8 @@
  - the stuff that comes in  = the stuff that goes out + whats left over
  - so create a buffer - either in your business or your personal finances it is hard to operate when you are 'red lining'
  - you wouldnt drive you lambo with the rev counter 'red lining' so dont drive your finances that way
+
+## Power 
+ - Leadership creates a power imbalance
+ - You are paid more and can do more that those you lead - esp at CEO levels
+ - So use that power wisely to develop your team rather than lording it over them (see the Sydney Swans rule)
