@@ -14,12 +14,14 @@
  - Newtons laws of motion apply just as much to your life as they do to physical objects
   - newtons laws 
 
-## Who are you? ( who song - )
+## Who are you? [Who are you](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ?si=ff7a05e9e0534d27) 
 
  - introverted / extroverted
  - morning person / night person
  - values
  - goals
+
+## Life Long Learning [Another brick in the wall Pt. II](https://open.spotify.com/track/4IAY70cIvZx9Btx9XB5XPX?si=ad535d2b168d4d1f)
 
 ## Creativity
 
@@ -30,7 +32,7 @@
  
 ## Values
 
- - get brene brown list
+ - get brene brown list as word
  - curiousity
  - Sydney Swans coach rule - "Don't be a D@^%k@!$d"
 
@@ -41,7 +43,7 @@
  - no man is an island - no matter how introverted you are and how muych you need your space. Life is enriched by others. Make space to catch up with friends, make space for fun with your family and your kids.
 
 
-## Money (pink floyd - money)
+## Money [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb?si=8e4e3c2786a94ec6)
 
  - the most important money eqn 
  - assets = liabilities + owners equity
