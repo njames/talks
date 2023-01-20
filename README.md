@@ -8,7 +8,9 @@ This is very much a work in progress space but as I develop my talks you are mor
 
 
 ## Talk Ideas
-[] ...
+ - [ ] ...
+
+## Previous Talks
 
 ## Suggestions
 If you have seen me talk or present something and you would like to provide feedback, open an issue, a PR, or ping me on mastodon at [@njames](https://phpc.social/@Njames)
