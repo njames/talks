@@ -1,18 +1,31 @@
 # Becoming a Better Developer
 
+## Title is too long
+ - Becoming a better Developer
+ - Becoming better
+ - Be better
+ - Be
+ - We are human BEings not human doings but we can get caught in the do do do cycle
+ - (do do do da da da)
+ - Do is performance Be comes from who you are
+
 ## Very Quick Personal Intro
  - I have been developing software professionally for over 25 years
  - I love it
  - I also love developing other developers
- - If you want to know more google me :)
+ - If you want to know more google me :) - abc.nigeljames.xyz
  
 
 ## Why this talk?
  - I believe we all can become better 
  - If you are the same person in 10 years as you are today then you are going backwards
- - Boat analogy - everything is moving on the water. If you stop rowing, stop putting energy into your live, your relationships, you are going backwards. 
+ - Kayak analogy - everything is moving on the water. If you stop paddling, stop putting energy into your live, your relationships, you are going backwards. 
+
+## Motion
  - Newtons laws of motion apply just as much to your life as they do to physical objects
-  - newtons laws 
+ - Nigel's Laws Of Action
+  - A Nigel at Rest will stay at Rest (A Nigel Coding Rest will stay coding Rest)
+  - A Nigel  
 
 ## Who are you? [Who are you](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ?si=ff7a05e9e0534d27) 
 
@@ -66,3 +79,15 @@
    - meetups
    - tests
    - ...
+
+
+
+
+
+## Appendix 1 - Books 
+ - James Clear - Atomic Habits
+ - 
+
+## Appendix 2 - References
+ - [Atomic Habits Sumarised](https://fourpillarfreedom.com/atomic-habits-by-james-clear/)
+
