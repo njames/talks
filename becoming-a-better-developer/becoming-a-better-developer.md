@@ -81,7 +81,9 @@
    - ...
 
 
-
+## buy or build
+ - nih not invented here
+ - some other great idea 
 
 
 ## Appendix 1 - Books 
