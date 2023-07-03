@@ -36,6 +36,10 @@
 
 ## Life Long Learning [Another brick in the wall Pt. II](https://open.spotify.com/track/4IAY70cIvZx9Btx9XB5XPX?si=ad535d2b168d4d1f)
 
+## Document document document
+ -  Ever had to onboard a new developer to the team? Enjoyed it ?
+ -  If you have documents on how your application works it reduces the learning curve and gets them productive faster
+
 ## Creativity
 
  - A symphony comes from an expression from within
@@ -92,4 +96,6 @@
 
 ## Appendix 2 - References
  - [Atomic Habits Sumarised](https://fourpillarfreedom.com/atomic-habits-by-james-clear/)
+
+
 
