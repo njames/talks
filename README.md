@@ -1,10 +1,10 @@
 # Talks
 
-All my talks in markdown so I can edit from anywhere
+All my talks in markdown so I can edit from anywhere and present with reveal.j
 
 
-## WIP
-This is very much a work in progress space but as I develop my talks you are more that welcome to borrow (with attribution) anything useful you find here. 
+## Reuse at will. 
+While this is a WIP space while talks are developed, you are open to reuse this content with a non-commercial attribution licence. 
 
 
 ## Talk Ideas
