@@ -3,9 +3,11 @@
 All my talks in markdown so I can edit from anywhere and present with reveal.js
 
 
-## Reuse at will for non-commercial use. 
+## Reuse at will ~for non-commercial use.~ 
 While this is a WIP space while talks are developed, you are open to reuse this content with a non-commercial attribution licence. 
-That means in broad terms personal learning is great, while getting paid to deliver this material is not. 
+That means in broad terms personal learning is great. ~, while getting paid to deliver this material is not.~ if you 
+
+You know what - if you can get paid for deliving this content from these slides - send me an email and we will work something out ;)
 
 
 
