@@ -1,18 +1,25 @@
 # Talks
 
-All my talks in markdown so I can edit from anywhere and present with reveal.js
+All my talks in markdown so I can edit from anywhere and present with sli.dev
 
 
-## Reuse at will ~for non-commercial use.~ 
-While this is a WIP space while talks are developed, you are open to reuse this content with a non-commercial attribution licence. 
-That means in broad terms personal learning is great. ~, while getting paid to deliver this material is not.~ 
+## Reuse at will 
+While this is a WIP space while talks are developed, you are open to use or reuse this content.
 
-You know what - if you can get paid for deliving this content from these slides - send me an email and we will work something out ;)
+## Use with sli.dev
+Install the slidev cli globally with:
+`npm i -g @slidev/cli`
 
+In each talk folder there is a file call slides.md
+
+To use and present from this repository clone in the normal way eg:
+`git clone git@github.com:njames/talks.git`
+
+cd to a talk / directory and then use the `slidev` command to start the slides. 
 
 
 ## Talk Ideas
- - [ ] ...
+ - [Ideas and WIP](./talkideas.md) ...
 
 ## Previous Talks
 
