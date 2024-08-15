@@ -7,7 +7,7 @@ All my talks in markdown so I can edit from anywhere and present with sli.dev
 While this is a WIP space while talks are developed, you are open to use or reuse this content.
 
 ## Use with sli.dev
-Install the slidev cli globally with:
+Install the [slidev](https://www.npmjs.com/package/@slidev/cli) cli globally with:
 `npm i -g @slidev/cli`
 
 In each talk folder there is a file call slides.md
